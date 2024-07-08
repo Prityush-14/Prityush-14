@@ -1,4 +1,4 @@
-Hi, I am Prityush Bansal, an undergrad btech student from IIT Delhi. 
+Hi, I am Prityush Bansal, who likes to do AI. 
 Just a normal gaming enthusiast with some special interest in Machine Learning and Artificial Intelligence
 <!---
 Prityush-14/Prityush-14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
